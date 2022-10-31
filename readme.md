@@ -2,4 +2,4 @@
 
 Namn: Johan
 
-Email: johan.kivi@zocom.se
+Epost: johan.kivi@zocom.se
